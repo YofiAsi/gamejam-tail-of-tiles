@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h3>#1 Audio &nbsp;&nbsp; #1 Visuals &nbsp;&nbsp; #2 Polish &nbsp;&nbsp; #4 Gameplay &nbsp;&nbsp; #5 Overall</h3>
+  <h3>#5 Overall &nbsp;&nbsp; #1 Visuals &nbsp;&nbsp; #2 Polish &nbsp;&nbsp; #4 Gameplay &nbsp;&nbsp; #1 Audio</h3>
   <img width=70% alt="2Wdmwd" src="https://github.com/user-attachments/assets/56ea4036-2c33-4fd1-9e2a-51ff9213437e" />
 </div>
 
